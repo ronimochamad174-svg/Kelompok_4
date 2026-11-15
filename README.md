@@ -9,7 +9,7 @@ Transaksi Peminjaman & Pengembalian: Catat tanggal pinjam, tenggat waktu (deadli
 Riwayat & Laporan: Rekapitulasi data peminjaman untuk memudahkan monitoring admin.
 
 2.Teknologi yang Digunakan
-Frontend: HTML5, CSS3, JavaScript, ( Bootstrap )
+Frontend: HTML5, CSS, JavaScript, ( Bootstrap )
 Backend: PHP
 Database: MySQL
 Version Control: GitHub
