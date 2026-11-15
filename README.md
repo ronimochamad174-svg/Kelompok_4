@@ -1,5 +1,5 @@
 # Kelompok_4
-Reposito Kelompok 4 Berisi Tentang Project & Proges Sistem Peminjaman Kitab (
+Reposito Kelompok 4 Berisi Tentang Project & Proges Sistem Peminjaman Kitab.
 Aplikasi web manajemen dan sistem informasi peminjaman kitab digital/fisik yang dirancang untuk memudahkan proses pendataan, peminjaman, pengembalian, serta pencatatan riwayat transaksi kitab secara terstruktur.
 
 1.Fitur Utama
